@@ -6,7 +6,8 @@ flora will have these ancient creatures who no longer inhabit the world but thei
 
 + lang.md has all the technical info on the language
   + it will be split into smaller more focused bits later
-+ sounds.md has every possible block you can make with each consonant and vowel
++ sounds.md has every possible sound you can make
   + gonna be trimmed down as i dont intend to use alot of consonants
++ blocks.md is all possible blocks, a combination of one consonant follow by one vowel
 + words.md is a buncha words they may use
 + i will soon add a lex.md which will be where ill connect words and blocks to make the first basic dictionary
