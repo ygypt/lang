@@ -1,6 +1,6 @@
 # romanisation
 ## all sounds
-### soft noiseys
+#### soft noiseys
 ```
 s : eng s
 c : eng sh
@@ -8,7 +8,7 @@ y : eng th (thigh)
 f : eng f
 x : rus x
 ```
-### hard noiseys
+#### hard noiseys
 ```
 r : spa r
 h : eng ch
@@ -20,7 +20,7 @@ g : eng g
 p : eng p
 b : eng b
 ```
-### timbres
+#### timbres
 ```
 z : eng z
 Y : eng th (that)
@@ -30,7 +30,16 @@ n : eng n
 m : eng m
 w : idk like rus x but timbre, flaps throat thing
 ```
-## cringe sounds
+## based or cringe
+#### based
+```
+q
+w
+r
+c
+s
+```
+#### crinch
 ```
 b
 g
