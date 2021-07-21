@@ -1,5 +1,4 @@
-# romanisation
-## all sounds
+# sounds and romanization
 #### soft noiseys
 ```
 s : eng s
@@ -30,7 +29,7 @@ n : eng n
 m : eng m
 w : idk like rus x but timbre, flaps throat thing
 ```
-## based or cringe
+# based or cringe
 #### based
 ```
 q
