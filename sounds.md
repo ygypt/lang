@@ -1,5 +1,5 @@
 # sounds and romanization
-#### vowels / emotions
+## vowels / emotions / colors
 ```
 o : sorrow
 a : bliss
@@ -7,6 +7,17 @@ u : apathy
 e : rage
 i : terror
 ```
+## consonants
+| noise | timbre | hit | roman |
+|:---|:---|:---|:---|
+| s | z | ts   | s z q |
+| sh | jj | ch | c j h |
+| r | rr | d   | l r d |
+| th | thz | t | y b t |
+| x | xr | k   | x g k |
+| f | v | p    | f v p |
+
+## old
 #### soft noiseys
 ```
 s : eng s
@@ -52,12 +63,4 @@ b
 g
 m
 ```
-## da chart
-| noise | timbre | hit | roman |
-|:---|:---|:---|:---|
-| s | z | ts   | s z q |
-| sh | jj | ch | c j h |
-| r | rr | d   | l r d |
-| th | thz | t | y b t |
-| x | xr | k   | x g k |
-| f | v | p    | f v p |
+
