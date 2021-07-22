@@ -55,9 +55,9 @@ m
 ## da chart
 | noise | timbre | hit | roman |
 |:---|:---|:---|:---|
-| s | z | ts | s z q |
+| s | z | ts   | s z q |
 | sh | jj | ch | c j h |
-| r | rr | d | r R d |
-| th | thz | t | y Y t |
-| x | xr | k | x w k |
-| f | v | p | f v p |
+| r | rr | d   | l r d |
+| th | thz | t | y b t |
+| x | xr | k   | x g k |
+| f | v | p    | f v p |
