@@ -53,11 +53,11 @@ g
 m
 ```
 ## da chart
-| noise | timbre | hit |
-|:---|:---|:---|
-| s | z | ts |
-| sh | jj | ch |
-| r | rr | d |
-| th | thz | t |
-| x | xr | k |
-| f | v | p |
+| noise | timbre | hit | roman |
+|:---|:---|:---|:---|
+| s | z | ts | s z q |
+| sh | jj | ch | c j h |
+| r | rr | d | r R d |
+| th | thz | t | y Y t |
+| x | xr | k | x w k |
+| f | v | p | f v p |
