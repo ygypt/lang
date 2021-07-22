@@ -1,10 +1,12 @@
 # sounds and romanization
 #### vowels / emotions
+```
 o : sorrow
 a : bliss
 u : apathy
 e : rage
 i : terror
+```
 #### soft noiseys
 ```
 s : eng s
