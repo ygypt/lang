@@ -17,36 +17,39 @@ i : terror
 | x | xr | k   | `x g k` |
 | f | v | p    | `f v p` |
 
-## old
-#### soft noiseys
+## all the sounds i could think of
+#### noiseys : they can go forever
 ```
-s : eng s
-c : eng sh
-y : eng th (thigh)
-f : eng f
-x : rus x
+eng s
+eng sh
+eng th (thigh)
+eng f
+rus x
+spa r but without timbre
 ```
-#### hard noiseys
+#### timbres : like noisey but w hum
 ```
-r : spa r
-h : eng ch
-t : eng t
-d : eng d
-q : jap ts
-k : eng k
-g : eng g
-p : eng p
-b : eng b
+spa r
+eng z
+eng thz (that)
+eng v
+kor jj / fre j (bonjour)
+eng n
+eng m
+rus x but timbre, like wookie sound
 ```
-#### timbres
+#### hits : percussive one-shots
 ```
-z : eng z
-Y : eng th (that)
-v : eng v
-j : kor jj
-n : eng n
-m : eng m
-w : idk like rus x but timbre, flaps throat thing
+eng ch
+eng t
+eng d
+jap ts
+eng k
+eng g
+eng p
+eng b
+eng ng
+tch sound where u pull tongue from top of mouth
 ```
 # based or cringe
 #### based
