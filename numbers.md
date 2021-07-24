@@ -2,8 +2,8 @@
 
 #### da numba chart
 |place|block|-|value|block|
-|---|---|---|---|---|
-|0     |`t'`|-|0|`k'`|
+|---:|---|---|---|---|
+|1     |`t'`|-|0|`k'`|
 |10    |`to`|-|1|`ko`|
 |100   |`ta`|-|2|`ka`|
 |1000  |`tu`|-|3|`ku`|
@@ -15,7 +15,7 @@
 
 numbers are spoken as such
 
-```{value.place}.{value.place}.{etc..```
+```{place.value}.{place.value}.{etc..```
 
 for instance,
 
@@ -43,3 +43,25 @@ aka\
 `taki.toka.t'ke`\
 aka\
 `takitokat'ke`
+
+#### bigger numbers
+rarely will you need numbers higher
+than 100000 (d7776), but if you must,
+you can make bigger numbers by combining
+places like so:
+
+`toti`\
+aka `[10].[100000]`\
+aka `10 × 100000`\
+aka `1,000000`
+
+toti (1,000000) is equivalent to\
+`10^10`\
+aka `d6^d6`\
+aka `d46656`
+
+this allows you to create ludicrously high
+numbers with very little effort. for instances
+`totiti`, which is `1,000000,000000`
+or `d2176782336`\
+totiti is equivalent to `10^100` (`d6^d36`)
