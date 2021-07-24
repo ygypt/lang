@@ -64,4 +64,4 @@ this allows you to create ludicrously high
 numbers with very little effort. for instances
 `totiti`, which is `1,000000,000000`
 or `d2176782336`\
-totiti is equivalent to `10^100` (`d6^d36`)
+totiti is equivalent to `10^20` (`d6^d12`)
