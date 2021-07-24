@@ -11,3 +11,21 @@ is what theyve found.. but the language is not meant to
 follow a specific order.
 
 change.joy topic.friend vessel.water
+
+##### noun prefix
+to : topic
+
+##### verb prefix
+no : not
+pa : past tense
+qe : equivalent
+
+##### verbs
+```
+re : relational
+
+re   xa   : i am xo
+reno xa   : i am not xo
+reqe xa   : i am equal to xa
+repa xa   : i was xo
+reqepa xa : i 
