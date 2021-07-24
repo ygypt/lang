@@ -1,5 +1,5 @@
 # tree creature lang
-#### i am not a linguist
+
 i will be slowly bringing my work to this github, cuz its kinda all over the place rn so i wanna collect it into one spot.
 
 flora will have these ancient creatures who no longer inhabit the world but their writings still mark the trees they burrowed
@@ -11,3 +11,5 @@ flora will have these ancient creatures who no longer inhabit the world but thei
 + blocks.md is all possible blocks; a combination of one consonant followed by one vowel
 + words.md is a buncha words they may use
 + i will soon add a lex.md which will be where ill connect words and blocks to make the first basic dictionary
+
+##### i am not a linguist
