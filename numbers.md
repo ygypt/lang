@@ -25,9 +25,9 @@ for instance,
 
 10 (d6) is `toko`
 
-11 (d7) is `tokot`ko`
+11 (d7) is `tokot'ko`
 
-23 (d15) is `tokat`ku`
+23 (d15) is `tokat'ku`
 
 524 (d195) is `takitokat'ke`
 
