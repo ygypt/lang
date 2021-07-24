@@ -18,14 +18,19 @@ sentence to notate it as the subject/topic
 ```
 xe existence
 
-xe toko      : ko exists
-xe toko ka   : ko is ka
-xeqe toko ka : i am equal to ko
+xe toko          : ko exists
+xe toko ka       : ko is ka
+xe toko qeka     : ko is equal to ka
 
-xepa toko    : ko did exist
-xepa toko ka : ko was ka
-xepa toko ka : i am equal to ko
+xeno toko        : ko doesnt exist
+xeno toko ka     : ko is not ka
+xeno toko qeka   : ko is not equal to ka
 
+xepa toko        : ko did exist
+xepa toko ka     : ko was ka
+xepa toko qeka   : ko was equal to ka
 
-
+xenopa toko      : ko didnt existed
+xenopa toko ka   : ko wasnt ka
+xenopa toko qeka : ko wasnt equal to ka
 ```
