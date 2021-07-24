@@ -20,12 +20,20 @@ no : not
 pa : past tense
 qe : equivalent
 
-##### verbs
-```
-re : relational
+##### relationals
+relationals are the basic blocks that turn
+words into verbial sentences
 
-re   xa   : i am xo
-reno xa   : i am not xo
-reqe xa   : i am equal to xa
-repa xa   : i was xo
-reqepa xa : i 
+sentences are naturally first person but a topic
+marker can be prefixed to any word in the sentence
+to notate it as the subject/topic
+
+```
+xe existence
+xe   : i exist
+xeno : i dont exist
+reqe xa   : i am equal to ko
+repa xa   : i was ko
+reqepa xa : i was equal to xa
+re
+```
