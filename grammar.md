@@ -16,26 +16,26 @@ marker `to` can be prefixed to any word in the
 sentence to notate it as the subject/topic
 
 ```
-xe existence
+xe existence (x is y)
 
-xe toko          : ko exists
-xe toko ka       : ko is ka
-xe toko qeka     : ko is equal to ka
+xeko          : ko exists
+xeko ka       : ko is ka
 
-xeno toko        : ko doesnt exist
-xeno toko ka     : ko is not ka
-xeno toko qeka   : ko is not equal to ka
+variants
+after verb block, before root
+no : negative
+pa : past tense
+qe : equivalence
 
-xepa toko        : ko did exist
-xepa toko ka     : ko was ka
-xepa toko qeka   : ko was equal to ka
+var examples
+xeqeko ka : ko is equal to ka
+xenoko : ko doesnt exist
+xeqepako ka : ko was equal to ka
+xeqepanoko ka : ko wasnt equal to ka
 
-xenopa toko      : ko didnt existed
-xenopa toko ka   : ko wasnt ka
-xenopa toko qeka : ko wasnt equal to ka
+ca causation (x caused y to z)
+the block ca is the actor prefix
 
-ce change
-
-ce toko : ko now exists (became exist)
-ce toko ka : ko is now ka
+xeko caku : ku caused ko to exist
+xeko ka caku : ku caused ko to be ka
 ```
