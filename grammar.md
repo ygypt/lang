@@ -16,17 +16,22 @@ xe existence (x is y)
 xeko          : ko exists
 xeko ka       : ko is ka
 ```
+``
+sa has (x has y)
+
+sake ka : ke has ka
+```
 ```
 ca causation (x caused y)
-the block ca is the actor prefix
+
+causation doesnt affect nouns, it
+affects the other two verbs
 
 xeko caku    : ku caused ko to exist
 xeko ka caku : ku caused ko to be ka
-```
-```
-sa has (x has y)
 
-sako ka : ko has ka
+sake ka caku : ku caused ke to have ka
+(aka ku gave ka to sake)
 ```
 
 #### particles
@@ -65,4 +70,12 @@ life. if john were to cause lisa to
 not exist *volitionaly* `exist.not.lisa
 cause.volition.lisa`.., that would mean
 he sent that bich to the shadow realm
+
+here are some more examples
+```
+xeko caku   : ku happens to make ko exist
+xeko cavoku : ku makes ko exist intentionally
+
+sako ka caku   : ku gives ka to ko (no intent)
+sako ka cavoku : ku gives ka to ko (with intent)
 
