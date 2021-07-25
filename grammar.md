@@ -16,7 +16,7 @@ xe existence (x is y)
 xeko          : ko exists
 xeko ka       : ko is ka
 ```
-``
+```
 sa has (x has y)
 
 sake ka : ke has ka
