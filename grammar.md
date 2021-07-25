@@ -1,6 +1,6 @@
 ## how to make thought
 
-##### relationals
+#### relationals
 relationals are the basic blocks that turn
 words into verbial sentences
 
