@@ -20,6 +20,7 @@ xeko ka       : ko is ka
 sa has (x has y)
 
 sake ka : ke has ka
+sake xeko ka : ke has ko is ka
 ```
 ```
 ca causation (x caused y)
