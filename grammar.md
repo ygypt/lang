@@ -33,4 +33,9 @@ xepa toko qeka   : ko was equal to ka
 xenopa toko      : ko didnt existed
 xenopa toko ka   : ko wasnt ka
 xenopa toko qeka : ko wasnt equal to ka
+
+ce change
+
+ce toko : ko now exists (became exist)
+ce toko ka : ko is now ka
 ```
