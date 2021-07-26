@@ -31,7 +31,7 @@ here is a breakdown of how each of these
 relationals work individually, and i will dive
 deeper into multi-verb sentences afterwards
 
-***for these examples, i will be using placeholders
+**for these examples, i will be using placeholders
 as the exact blocks havent been worked out**
 
 `ko, ka, ku, ke, ki` will all be nouns used for
