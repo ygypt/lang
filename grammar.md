@@ -49,6 +49,7 @@ xeko xeka ki  : ko and ka is ki
 po possesion (x has y)
 
 poke         : ke has
+- ?? idk
 poke ka      : ke has ka
 poke ka ki   : ke has ka and ki
 poke poka ki : ke and ka have ki
@@ -57,9 +58,36 @@ poke poka ki : ke and ka have ki
 ca causation (x caused y)
 
 caku         : ku causes
+- ?? idk
 caku ka      : ku causes ka
 caku ka ki   : ku causes ka and ki
 caku caka ki : ku and ka causes ki
+```
+#### combining verbs
+affecting existence
+```
+poke xeko    : ke owns ko
+- ke has ko's existence
+poke xeko ka : ke has ko being ka
+- ?? idk
+
+caku xeko    : ku causes ko to exist
+caku xeko ka : ku causes ko to be ka
+```
+affecting possession
+```
+caku poke    : ku causes ke to have
+- ?? idk
+caku poke ka : ku gives ka to ke
+- ku causes ke to have ka
+
+caku poke xeko : ku causes ke to own ko
+- ku gives ko to ke (the ownership, not
+  the physical object)
+caku poke xeko ka : lol
+- ?? ku causes ke to have ko be ka
+  - i literally cannot figure out wtf
+    this would mean lol
 ```
 
 #### particles
