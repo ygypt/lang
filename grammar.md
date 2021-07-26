@@ -113,8 +113,9 @@ sapako ka : ko used to have ka
 safuko ka caku : ku will give ka to ko
 ```
 volition is super important.
-[MIGHT CHANGE] phrases are assumed
-non-volitional unless tagged volitional
+phrases are assumed non-volitional
+unless tagged volitional [MIGHT CHANGE
+IN THE FUTURE]
 
 volition in causal verbs notates
 that the causor intended the effect.
