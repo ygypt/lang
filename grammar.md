@@ -22,7 +22,10 @@ sa has (x has y)
 sake : ke is introduced
 sake ka : ke has ka
 sake ka ki : ke has ka and ki
-sake xeko : ke has the existence of ko
+sake xeko : ke has the action of ko existing ??
+?? ke has the responsibility of ko's existence?
+?? ke has the soul of ko?
+?? ke has the equivalence of ko?
 ```
 ```
 ca causation (x caused y)
@@ -34,7 +37,7 @@ xeko caku    : ku caused ko to exist
 xeko ka caku : ku caused ko to be ka
 
 sake ka caku : ku caused ke to have ka
-(aka ku gave ka to sake)
+(aka ku gave ka to ke)
 ```
 
 #### particles
