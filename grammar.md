@@ -12,16 +12,27 @@ there are 4 relationals:
 
 the relationals are listed in order of power,
 with the first relational having the least power
-and the final relational having the most. power
-dictates how relationals interact with one another.
+and the final relational having the most.
+power
+dictates how relationals interact with one another,
+as opposed to word order.
+higher power relationals will always take affect
+unto the verb of a lower level relational.
 for instance if the relational of causation is
 used in the same sentence as the relational of
 existence, the relational of causation has affect
 on the VERB OF EXISTENCE, and not on the objects
-in the sentence. [bruh](http://google.com)
+in the sentence.
+this is why `exist.chair cause.cat cut` means
+that *cat causes chair to be cut* and
+not that *chair is a cat causing cut*
 
-for these examples, i will be using placeholders
-as the exact blocks havent been worked out
+here is a breakdown of how each of these
+relationals work individually, and i will dive
+deeper into multi-verb sentences afterwards
+
+***for these examples, i will be using placeholders
+as the exact blocks havent been worked out**
 
 `ko, ka, ku, ke, ki` will all be nouns used for
 exampling purposes
@@ -31,29 +42,24 @@ xe existence (x is y)
 
 xeko          : ko exists
 xeko ka       : ko is ka
+xeko ka ki    : ko is ka and ki
+xeko xeka ki  : ko and ka is ki
 ```
 ```
-sa has (x has y)
+po possesion (x has y)
 
-poke : ke is introduced
-poke ka : ke has ka
-poke ka ki : ke has ka and ki
-poke xeko : ke has the action of ko existing ??
-?? ke has the responsibility of ko's existence?
-?? ke has the soul of ko?
-?? ke has the equivalence of ko?
+poke         : ke has
+poke ka      : ke has ka
+poke ka ki   : ke has ka and ki
+poke poka ki : ke and ka have ki
 ```
 ```
 ca causation (x caused y)
 
-causation doesnt affect nouns, it
-affects the other two verbs
-
-xeko caku    : ku caused ko to exist
-xeko ka caku : ku caused ko to be ka
-
-poke ka caku : ku caused ke to have ka
-(aka ku gave ka to ke)
+caku         : ku causes
+caku ka      : ku causes ka
+caku ka ki   : ku causes ka and ki
+caku caka ki : ku and ka causes ki
 ```
 
 #### particles
