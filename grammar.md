@@ -19,8 +19,10 @@ xeko ka       : ko is ka
 ```
 sa has (x has y)
 
+sake : ke is introduced
 sake ka : ke has ka
-sake xeko ka : ke has ko is ka
+sake ka ki : ke has ka and ki
+sake xeko : ke has the existence of ko
 ```
 ```
 ca causation (x caused y)
