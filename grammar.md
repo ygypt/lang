@@ -1,8 +1,14 @@
-# how to make thought
+this is a guide on grammar, so basically how to
+use relationals to turn words into verbs, and
+how to effectively attach particles to those
+relationals to change their behaviour.
+theres also some weird nuance to how relationals
+affect
+*each other* in a sentence
 
-### relationals
+# relationals
 relationals are the basic blocks that turn
-words into verbial sentences
+words into verbs
 
 there are multiple ways the lang could
 potentially handle relationals.
@@ -23,13 +29,17 @@ and causation*, with existence covering cases
 of both instancing objects and declaring
 possesion in the way of "noun1 exists within
 noun2". this config has a little less
-versatility, but you can pretty much
+wiggle room, but you can pretty much
 get your point across and theres less
 redundancy. i like this one the most
+bc i want the lang to be simple and elegant,
+and if i can get away with two relationals
+without causing more confusion than i solve,
+then its a keeper.
 
 its technically possible to have only one
 super versitile relational.. but it requires
-***WORD ORDER***, something im choosing to
+***word order***, something im choosing to
 avoid for the sake of using word order to
 denote *topical importance* (important
 words first) instead of verb function.
@@ -46,8 +56,8 @@ in the sentence.
   (`basket exist.bread` would mean
   bread exists within the basket)
 
-while these are both the same thing (the
-basket has bread), they got there differently.
+these both mean the same thing (the
+basket has bread), but they got there differently.
 im not sure which way i like better. im leaning
 on v1.. but v2 aint far behind.
 
@@ -216,7 +226,7 @@ caku poke xeko ka : lol
     this would mean lol
 ```
 
-#### particles
+# particles
 particles are little blocks that go between
 the verb and root that change how the verb
 affects the sentence. an easy example is the
