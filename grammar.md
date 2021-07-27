@@ -4,6 +4,76 @@
 relationals are the basic blocks that turn
 words into verbial sentences
 
+```
+xe existence
+ca causation
+
+xeko
++ ko exists
+
+xeko ka
++ ko exists within ka
+- ka has ko (or properties of ko)
+
+xeko xeka
++ ko and ka have the same existence
+- ko and ka are the same
+- ko is ka | ka is ko
+
+xeko xeka ki
+- ki has ko and ka?
+
+caku
++ ku causes itself
+- ku now exists
+- ku enters the chat
+
+caku ka
++ ka causes ku
+- ka actively causes ku
+- ka makes ku happen anew
+- [cu.murder paya] would mean paya
+  actively commits a new murder
+
+caku xeko
++ ko's existence causes ku
+- ko passively causes ku
+- ko makes ku happen generally
+- [ca.murder xe.paya] would mean paya
+  passively commits murder (but isnt rn)
+
+caku xeko ka
++ ka caused ku to be in ko
+- ka causes ko to have ku
+- ka gives ku to ko
+```
+## other variant
+```
+xeku
++ ku exists
+
+xeku ko
++ ku has ko
+
+xeku xeko
++ ku = ko
+
+caku
++ ku enters
+
+caku ko
++ ku causes ko [passively]
+
+caku xeko
++ ku causes ko [actively]
+
+caku xeko ka
++ ku gives ka to ko
+
+caku xeko xeka
++ ku causes ko to = ka
+```
+# old
 there are 4 relationals:
 + existence
 + posession
