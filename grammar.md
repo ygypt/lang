@@ -1,10 +1,66 @@
-## how to make thought
+# how to make thought
 
-#### relationals
+### relationals
 relationals are the basic blocks that turn
 words into verbial sentences
 
-### variant 1: lone wolf is subject
+there are multiple ways the lang could
+potentially handle relationals.
+
+one way is with 3 relationals: *existence,
+posession, and causation.* this "3 relational"
+version of the language would have
+alot of versatility, especially as
+the relationships between existence and
+posession would be more robust.
+
+its possible to build the language with
+only two, however. this would be *existence
+and causation*, with existence covering cases
+of both instancing objects and declaring
+possesion in the way of "noun1 exists within
+noun2". this config has a little less
+versatility, but you can pretty much
+get your point across and theres less
+redundancy. i like this one the most
+
+its technically possible to have only one
+super versitile relational.. but it requires
+***WORD ORDER***, something im choosing to
+avoid for the sake of using word order to
+denote *topical importance* (important
+words first) instead of verb function.
+i still wanna explore this tho cuz its super
+interesting.
+
+### variant 1: emphasis on subject
+```
+xeku
++ ku exists
+
+xeku ko
++ ku has ko
+
+xeku xeko
++ ku = ko
+
+caku
++ ku enters
+
+caku ko
++ ku causes ko [passively]
+
+caku xeko
++ ku causes ko [actively]
+
+caku xeko ka
++ ku gives ka to ko
+
+caku xeko xeka
++ ku causes ko to = ka
+```
+
+### variant 2: emphasis on object
 ```
 xe existence
 ca causation
@@ -48,32 +104,7 @@ caku xeko ka
 - ka causes ko to have ku
 - ka gives ku to ko
 ```
-### variant 2: lone wolf is object
-```
-xeku
-+ ku exists
 
-xeku ko
-+ ku has ko
-
-xeku xeko
-+ ku = ko
-
-caku
-+ ku enters
-
-caku ko
-+ ku causes ko [passively]
-
-caku xeko
-+ ku causes ko [actively]
-
-caku xeko ka
-+ ku gives ka to ko
-
-caku xeko xeka
-+ ku causes ko to = ka
-```
 # old
 there are 4 relationals:
 + existence
