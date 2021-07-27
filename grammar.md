@@ -7,7 +7,8 @@ words into verbial sentences
 there are multiple ways the lang could
 potentially handle relationals.
 
-one way is with [three relationals](#old): *existence,
+one way is with [three relationals](#three-relational-system):
+*existence,
 posession, and causation.* this "3 relational"
 version of the language would have
 alot of versatility, especially as
@@ -15,7 +16,9 @@ the relationships between existence and
 posession would be more robust.
 
 its possible to build the language with
-only two, however. this would be *existence
+only [two relationals](#two-relational-system),
+however.
+this would be *existence
 and causation*, with existence covering cases
 of both instancing objects and declaring
 possesion in the way of "noun1 exists within
@@ -52,6 +55,8 @@ without further ado, lemme explain how the
 relationals work, starting with the *two
 relational system* (i will be demoing both
 variants as well)
+
+## two relational system
 
 ### variant 1: emphasis on subject
 ```
@@ -125,7 +130,7 @@ caku xeko ka
 - ka gives ku to ko
 ```
 
-# old
+## three relational system
 there are 3 relationals:
 + existence
 + posession
