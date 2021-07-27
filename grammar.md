@@ -7,7 +7,7 @@ words into verbial sentences
 there are multiple ways the lang could
 potentially handle relationals.
 
-one way is with 3 relationals: *existence,
+one way is with [three relationals](#old): *existence,
 posession, and causation.* this "3 relational"
 version of the language would have
 alot of versatility, especially as
@@ -126,11 +126,10 @@ caku xeko ka
 ```
 
 # old
-there are 4 relationals:
+there are 3 relationals:
 + existence
 + posession
 + causation
-+ question
 
 the relationals are listed in order of power,
 with the first relational having the least power
