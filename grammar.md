@@ -33,6 +33,26 @@ words first) instead of verb function.
 i still wanna explore this tho cuz its super
 interesting.
 
+im also thinking of two ways to put the verbs
+in the sentence.
+1. attach them to the subject
+  (`exist.basket bread` would mean
+  basket has the existence of the bread in it)
+
+2. attach them to the object
+  (`basket exist.bread` would mean
+  bread exists within the basket)
+
+while these are both the same thing (the
+basket has bread), they got there differently.
+im not sure which way i like better. im leaning
+on v1.. but v2 aint far behind.
+
+without further ado, lemme explain how the
+relationals work, starting with the *two
+relational system* (i will be demoing both
+variants as well)
+
 ### variant 1: emphasis on subject
 ```
 xeku
