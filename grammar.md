@@ -4,6 +4,7 @@
 relationals are the basic blocks that turn
 words into verbial sentences
 
+### variant 1: lone wolf is subject
 ```
 xe existence
 ca causation
@@ -47,7 +48,7 @@ caku xeko ka
 - ka causes ko to have ku
 - ka gives ku to ko
 ```
-## other variant
+### variant 2: lone wolf is object
 ```
 xeku
 + ku exists
