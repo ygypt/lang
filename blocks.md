@@ -1,3 +1,7 @@
+# blocks
+these are all possible blocks, one consonant
+and one vowel
+
 |***noise***|
 |:---|
 su
