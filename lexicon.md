@@ -1,5 +1,5 @@
-|block|word|
-|:---|:---|
+block|word
+|-|-|
 |||
 |***noise***||
 |||
