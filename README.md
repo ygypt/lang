@@ -10,6 +10,6 @@ flora will have these ancient creatures who no longer inhabit the world but thei
   + gonna be trimmed down as i dont intend to use alot of consonants
 + blocks.md is all possible blocks; a combination of one consonant followed by one vowel
 + words.md is a buncha words they may use
-+ i will soon add a lex.md which will be where ill connect words and blocks to make the first basic dictionary
++ lex.md is where ill connect words and blocks to make the first basic dictionary
 + grammar.md has all the info on relationals and how to make verbs
 ##### i am not a linguist
