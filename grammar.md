@@ -176,15 +176,16 @@ exampling purposes
 ```
 xe existence (x is y)
 
-xeko          : ko exists
+xeko          : ko is topic
 xeko ka       : ko is ka
 xeko ka ki    : ko is ka and ki
 xeko xeka ki  : ko and ka is ki
+xeko xeka     : ko and ka are the same
 ```
 ```
 po possesion (x has y)
 
-poke         : ke has
+poke         : ke has topic
 - ?? idk
 poke ka      : ke has ka
 poke ka ki   : ke has ka and ki
@@ -193,8 +194,8 @@ poke poka ki : ke and ka have ki
 ```
 ca causation (x caused y)
 
-caku         : ku causes
-- ?? idk
+caku         : ku causes topic
++ ku becomes/enters
 caku ka      : ku causes ka
 caku ka ki   : ku causes ka and ki
 caku caka ki : ku and ka causes ki
