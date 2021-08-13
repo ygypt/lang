@@ -13,3 +13,4 @@ humaca yuxe me'a
 + you are gay
 - human.male.cause you.exist(have) emotion.joy
 - guys cause you to have joy
+
