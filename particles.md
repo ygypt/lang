@@ -41,7 +41,7 @@ ponti : near
 ```
 lets assume wan is away
 ```
-wantu : to
+wantu : into
 wanta : towards
 wanti : from
 ```
