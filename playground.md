@@ -74,12 +74,16 @@ doca ka
 dog causes cat
 doca ka boxe
 dog causes cat to be bone
-doca ka bopo baxe
-dog caused cats bone to be ball
-doca ka bapo nuxe tomocatu
-dog changed cats ball to nothing using its mouth
+doca ka bopo yaxe
+dog caused cats bone to be yarn
+doca ka yapo nuxe tomocatu
+dog changed cats yarn to nothing using its mouth
 
+do kapo
+the dog has a cat
 
+ka yaxe, toca do boxe
+cat is yarn, which causes dog to be bone
 
 
 ```
