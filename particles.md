@@ -16,7 +16,7 @@ intensity
 
 ```
 
-# this part is for lal
+# this part is for loe
 
 either there will be a suffix for every possibility
 or 5 modifiers will be used to alter the amplitude
