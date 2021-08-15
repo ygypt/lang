@@ -121,6 +121,8 @@ them.plur
 us.plur
 
 we believe thses truths to be self evident
-agent us.plural patient this.plural truth object axiom perceive
+agent.the.plural us patient.this.plural truth object.the axiom know
+
+
 
 ```
