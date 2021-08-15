@@ -35,3 +35,12 @@ r | spa r
 
 y and w are weird but they on the list cuz 
 i gotta be able to say paya and willow
+
+x g k
+d r l
+h b t
+s z q
+f v p
+c j ß
+y w
+m n
