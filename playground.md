@@ -1,4 +1,4 @@
-using placeholder words here
+```using placeholder words here
 
 rn where n is how many relationals there are
 
@@ -56,3 +56,30 @@ xe do bopo kapa bapopa
 exist dog bone.posses kat.patient ball.patient.possess
 xe dosuna kapo
 
+xeko
+ko exists
+poko
+ko enters topic
+cako
+ko becomes
+
+ka doxe
+cat is dog
+ka bopo doxe
+cats ball is a dog
+ka doxe boxepo
+cat is dogs bone
+
+doca ka
+dog causes cat
+doca ka boxe
+dog causes cat to be bone
+doca ka bopo baxe
+dog caused cats bone to be ball
+doca ka bapo nuxe tomocatu
+dog changed cats ball to nothing using its mouth
+
+
+
+
+```
