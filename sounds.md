@@ -15,23 +15,27 @@ c | eng sh
 h | eng th
 f | eng f
 x | rus x
+d | spa r (without timbre)
 |||
 z | eng z
 j | french j
+b | eng thz
 v | eng v
+g | uvular trill?
+r | spa r
 |||
-k | eng k
+q | jap ts
+ß | eng ch (i dont like)
 t | eng t
 p | eng p
-q | jap ts (maybe not)
-|||
+k | eng k
 l | eng l
+|||
 m | eng m (maybe not)
 n | eng n (maybe not)
-|||
 y | eng y (without timbre)
 w | eng w (without timbre)
-r | spa r
+
 
 y and w are weird but they on the list cuz 
 i gotta be able to say paya and willow
