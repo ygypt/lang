@@ -111,6 +111,16 @@ will be end up at the beach?
 sucafuco be topo
 we might end up at the beach
 
+me 
+you 
+them
+us
+me.plur
+you.plur
+them.plur
+us.plur
 
+we believe thses truths to be self evident
+agent us.plural patient this.plural truth object axiom perceive
 
 ```
