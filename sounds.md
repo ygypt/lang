@@ -19,7 +19,7 @@ d | spa r (without timbre)
 |||
 z | eng z
 j | french j
-b | eng thz
+b | eng th (with timbre)
 v | eng v
 g | uvular trill?
 r | spa r
