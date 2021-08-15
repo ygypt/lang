@@ -98,7 +98,19 @@ humaca yu mo'axe
 human.male.cause you emotion.joy.exist
 you are gay
 
+sucavofucoqu be topo
+us.cause.volition.future.condition.question beach topic.posses
+should we goto the beach?
 
-lets go to the beach
+sucavofuco be topo
+we might go to the beach
+
+sucafucoqu be topo
+will be end up at the beach?
+
+sucafuco be topo
+we might end up at the beach
+
+
 
 ```
