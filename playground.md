@@ -76,8 +76,8 @@ doca ka boxe
 dog causes cat to be bone
 doca ka bopo yaxe
 dog caused cats bone to be yarn
-doca ka yapo nuxe tomocatu
-dog changed cats yarn to nothing using its mouth
+dovoca ka yapo nuxe tomocatu
+dog volotionally changes cats yarn to nothing using its mouth
 
 do kapo
 the dog has a cat
@@ -85,5 +85,20 @@ the dog has a cat
 ka yaxe, toca do boxe
 cat is yarn, which causes dog to be bone
 
+yumocavoqu fo nuxe
+do you want to eat food
+
+yumocavo toqu nuxe
+what do you want to eat
+
+yumocavo fo quxe
+what would you like to do to food with you mouth
+
+humaca yu mo'axe
+human.male.cause you emotion.joy.exist
+you are gay
+
+
+lets go to the beach
 
 ```
