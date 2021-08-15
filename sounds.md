@@ -29,7 +29,7 @@ q | jap ts
 t | eng t
 p | eng p
 k | eng k
-l | eng l
+l | jap l (more like a tap)
 |||
 m | eng m (maybe not)
 n | eng n (maybe not)
