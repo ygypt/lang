@@ -168,90 +168,97 @@ caku xeko ka
 ```
 
 ## three relational system
+
 there are 3 relationals:
 + existence
 + posession
 + causation
 
-the relationals are listed in order of power,
-with the first relational having the least power
-and the final relational having the most.
-power
-dictates how relationals interact with one another,
-as opposed to word order.
-higher power relationals will always take affect
-unto the verb of a lower level relational.
-for instance if the relational of causation is
-used in the same sentence as the relational of
-existence, the relational of causation has affect
-on the VERB OF EXISTENCE, and not on the objects
-in the sentence.
-this is why `exist.chair cause.cat cut` means
-that *cat causes chair to be cut* and
-not that *chair is a cat causing cut*
+the relational of existence is appended to
+```
+the verb of an intransitive verb,
+the patient of a transitive verb,
+the recipient of a ditransitive verb
+```
 
-here is a breakdown of how each of these
-relationals work individually, and i will dive
-deeper into multi-verb sentences afterwards
+the relational of possesion is appended to
+```
+the verb of an intransitive verb,
+the patient of a transitive verb,
+the recipient of a ditransitive verb
+```
+the relational of causation is appended to
+```
+the subject of an intransitive verb
+the agent of a transitive verb
+the donor of a ditransitive verb
+```
+a nonrelational noun is considered
+```
+the subject of an intransitive verb
+the agent of a transitive verb
+- against existence and possesion
+the patient of a transitive verb
+- against causation
+the theme of a ditransitive verb
+```
+it is grammatically incorrect to have both
+the relational of existence and possesion
+in one sentence
 
 **for these examples, i will be using placeholders
 as the exact blocks havent been worked out**
 
-`ko, ka, ku, ke, ki` will all be nouns used for
-exampling purposes
++ ka is cat
++ ya is yarn
++ do is dog
++ bo is bone
++ yu is you
++ fo is food
+
 
 ```
 xe existence (x is y)
 
-xeko          : ko is topic
-xeko ka       : ko is ka
-xeko ka ki    : ko is ka and ki
-xeko xeka ki  : ko and ka is ki
-xeko xeka     : ko and ka are the same
+kaxe
+cat exists
+
+ka yaxe
+cat is yarn
+
+yaxe ka
+cat is yarn
 ```
 ```
 po possesion (x has y)
 
-poke         : ke has topic
-- ?? idk
-poke ka      : ke has ka
-poke ka ki   : ke has ka and ki
-poke poka ki : ke and ka have ki
+kapo
+address cat as contextual topic
+
+ka yapo
+cat has yarn
 ```
 ```
 ca causation (x caused y)
 
-caku         : ku causes topic
-+ ku becomes/enters
-caku ka      : ku causes ka
-caku ka ki   : ku causes ka and ki
-caku caka ki : ku and ka causes ki
-```
-#### combining verbs
-affecting existence
-```
-poke xeko    : ke owns ko
-- ke has ko's existence
-poke xeko ka : ke has ko being ka
-- ?? idk
+kaca
+cat enters / cat is caused
 
-caku xeko    : ku causes ko to exist
-caku xeko ka : ku causes ko to be ka
-```
-affecting possession
-```
-caku poke    : ku causes ke to have
-- ?? idk
-caku poke ka : ku gives ka to ke
-- ku causes ke to have ka
+kaca ya
+cat causes yarn
 
-caku poke xeko : ku causes ke to own ko
-- ku gives ko to ke (the ownership, not
-  the physical object)
-caku poke xeko ka : lol
-- ?? ku causes ke to have ko be ka
-  - i literally cannot figure out wtf
-    this would mean lol
+kaca ya boxe
+cat causes yarn to be bone
+(cat turns yarn to bone)
+
+kaca do bopo
+cat causes dog to have bone
+(cat gives bone to dog)
+
+```
+#### complex examples
+```
+
 ```
 
 # particles
