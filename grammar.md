@@ -33,12 +33,8 @@ evidently the order of R+ doesnt really matter
 as you can see in the last two
 
 # relationals
-relationals are the basic blocks that turn
+relationals are the blocks that turn
 words into verbs
-
-
-
-## three relational system
 
 there are 3 relationals:
 + existence
@@ -47,19 +43,22 @@ there are 3 relationals:
 
 the relational of existence is appended to
 ```
-the verb of an intransitive verb,
-the patient of a transitive verb,
+the object of a topical verb
+the verb of an intransitive verb
+the patient of a transitive verb
 the recipient of a ditransitive verb
 ```
 
 the relational of possesion is appended to
 ```
-the verb of an intransitive verb,
-the patient of a transitive verb,
+the object of a topical verb
+the verb of an intransitive verb
+the patient of a transitive verb
 the recipient of a ditransitive verb
 ```
 the relational of causation is appended to
 ```
+the object of a topical verb
 the subject of an intransitive verb
 the agent of a transitive verb
 the donor of a ditransitive verb
@@ -76,9 +75,8 @@ the theme of a ditransitive verb
 it is grammatically incorrect to have both
 the relational of existence and possesion
 in one sentence. additionally, sentences with
-just the relational of existence or possesion
-and no nonrelational noun arent considered
-verbs (or notransitive verbs). they serve to
+no nonrelational nouns are considered
+topical verbs. they serve to
 provide context to the conversation by addressing
 or modifying the topic
 
@@ -108,6 +106,8 @@ xe existence (x is y)
 ka sexe
 cat exists
 (cat is cat)
+- i will explain sentence topic "se"
+  in more detail later
 
 ka yaxe
 cat is yarn
@@ -129,7 +129,6 @@ cat causes yarn
 
 kaca ya boxe
 cat causes yarn to be bone
-(cat turns yarn to bone)
 
 kaca do bopo
 cat causes dog to have bone
@@ -144,9 +143,9 @@ cat causes dog to have bone
 ```
 kaxe
 there is cat (contextually)
-notes that a cat exists in conversation
-or points out that it is the conversational
-topic as opposed to something else
+- notes that a cat exists in conversation
+  or points out that it is the conversational
+  topic as opposed to something else
 
 "the cat is what i am talking about"
 
