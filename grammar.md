@@ -204,7 +204,13 @@ the theme of a ditransitive verb
 ```
 it is grammatically incorrect to have both
 the relational of existence and possesion
-in one sentence
+in one sentence. additionally, sentences with
+just the relational of existence or possesion
+and no nonrelational noun arent considered
+verbs (or notransitive verbs). they serve to
+provide context to the conversation by addressing
+or modifying the topic
+
 
 **for these examples, i will be using placeholders
 as the exact blocks havent been worked out**
@@ -215,13 +221,22 @@ as the exact blocks havent been worked out**
 + bo is bone
 + yu is you
 + fo is food
++ se is sentence topic
+  + first word in sentence becomes sentence topic
+  not unlike the "its" in "the cat chased *its*
+  tail"
++ co is conversation topic
+  + akin to saying "*it* grabbed *its* tail"
+  when the listener already knows that "*it*"
+  is a cat
 
 
 ```
 xe existence (x is y)
 
-kaxe
+ka sexe
 cat exists
+(cat is cat)
 
 ka yaxe
 cat is yarn
@@ -232,17 +247,11 @@ cat is yarn
 ```
 po possesion (x has y)
 
-kapo
-address cat as contextual topic
-
 ka yapo
 cat has yarn
 ```
 ```
 ca causation (x caused y)
-
-kaca
-cat enters / cat is caused
 
 kaca ya
 cat causes yarn
@@ -260,7 +269,27 @@ cat causes dog to have bone
 ```
 
 ```
+#### nontransitive verbs
+```
+kaxe
+there is cat (contextually)
+notes that a cat exists in conversation
+or points out that it is the conversational
+topic as opposed to something else
 
+"the cat is what i am talking about"
+
+kapo
+address cat as conversational topic
+
+"the cat is now what i am talking about"
+
+kaca
+cat enters conversation
+(cat brought into the picture, if you will)
+
+"the cat is now part of what i am talking about"
+```
 # particles
 particles are little blocks that go between
 the verb and root that change how the verb
