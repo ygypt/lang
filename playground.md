@@ -121,7 +121,10 @@ them.plur
 us.plur
 
 we believe thses truths to be self evident
-agent.the.plural us patient.this.plural truth object.the axiom know
+agent.the.plural us patient.this.plural truth object.the axiom verb know
+
+that all people are created equal
+agent.all person patient equal verb.past create
 
 
 
