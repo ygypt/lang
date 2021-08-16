@@ -32,8 +32,6 @@ D.cat gives T.bone for R.mouse to R.dog
 evidently the order of R+ doesnt really matter
 as you can see in the last two
 
-also, there kinda isnt transitive sentences
-
 # relationals
 relationals are the blocks that turn
 words into verbs
