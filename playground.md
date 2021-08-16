@@ -118,10 +118,20 @@ food cook.exist you.for cat.cause
 
 cat has yarn because of dog
 ka yapo doca
-cat's yarn is a ball because of dog
+cat's yarn is a bone because of dog
 ka yapo boxe doca
 cat is the bone's yarn because of dog
 ka yaxepo boxe doca
+
+cat has dogs bone
+cat is dogs bone possesor
+
+ka yasa doxe doxesa
+cats yarn is dogs bone
+ka yasa dopo doposa
+cats yarn has dogs bone
+
+
 
 ```
 # other language
