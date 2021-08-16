@@ -6,32 +6,31 @@ theres also some weird nuance to how relationals
 affect
 *each other* in a sentence
 
-the language has hexpartite alignment:
+the language has sexpartite alignment:
 
 #### intransitive
 + subject
+```
 S.cat sleeps
-
+```
 #### transitive
 + agent
 + patient
+```
 A.cat chases P.dog
-
-#### transitive+
+```
+#### ditransitive+
 + donor
 + theme
 + recipient+
+```
 D.cat gives T.bone to R.dog
-
 D.cat gives T.bone to R.dog for R.mouse
-
 D.cat gives T.bone for R.mouse to R.dog
+```
 
-evidently the order of R+ doesnt really matter.
-also worth mentioning that agent and patient are
-grammatically similar to donor and theme, as without
-R the sentence "cat gives bone" still makes plenty
-of sense. the distinction is still made, however.
+evidently the order of R+ doesnt really matter
+as you can see in the last two
 
 # relationals
 relationals are the basic blocks that turn
