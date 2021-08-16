@@ -32,36 +32,28 @@ D.cat gives T.bone for R.mouse to R.dog
 evidently the order of R+ doesnt really matter
 as you can see in the last two
 
+also, there kinda isnt transitive sentences
+
 # relationals
 relationals are the blocks that turn
 words into verbs
 
-there are 3 relationals:
+there are 2 primary relationals:
 + existence
-+ posession
 + causation
 
 the relational of existence is appended to
 ```
-the object of a topical verb
-the verb of an intransitive verb
-the patient of a transitive verb
-the recipient of a ditransitive verb
-```
-
-the relational of possesion is appended to
-```
-the object of a topical verb
-the verb of an intransitive verb
-the patient of a transitive verb
-the recipient of a ditransitive verb
+the object of a topical
+the verb of an intransitive
+the verb of a transitive
 ```
 the relational of causation is appended to
 ```
-the object of a topical verb
-the subject of an intransitive verb
-the agent of a transitive verb
-the donor of a ditransitive verb
+the object of a topical
+the subject of an intransitive
+the agent of a transitive
+the donor of a ditransitive
 ```
 a nonrelational noun is considered
 ```
@@ -116,12 +108,6 @@ yaxe ka
 cat is yarn
 ```
 ```
-po possesion (x has y)
-
-ka yapo
-cat has yarn
-```
-```
 ca causation (x caused y)
 
 kaca ya
@@ -137,7 +123,7 @@ cat causes dog to have bone
 ```
 #### complex examples
 ```
-
+doca yaxe bo kafo
 ```
 #### nontransitive verbs
 ```
