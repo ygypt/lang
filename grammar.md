@@ -37,135 +37,7 @@ of sense. the distinction is still made, however.
 relationals are the basic blocks that turn
 words into verbs
 
-there are multiple ways the lang could
-potentially handle relationals.
 
-one way is with [three relationals](#three-relational-system):
-*existence,
-posession, and causation.* this "3 relational"
-version of the language would have
-alot of versatility, especially as
-the relationships between existence and
-posession would be more robust.
-
-its possible to build the language with
-only [two relationals](#two-relational-system),
-however.
-this would be *existence
-and causation*, with existence covering cases
-of both instancing objects and declaring
-possesion in the way of "noun1 exists within
-noun2". this config has a little less
-wiggle room, but you can pretty much
-get your point across and theres less
-redundancy. i like this one the most
-bc i want the lang to be simple and elegant,
-and if i can get away with two relationals
-without causing more confusion than i solve,
-then its a keeper.
-
-its technically possible to have only one
-super versitile relational.. but it requires
-***word order***, something im choosing to
-avoid for the sake of using word order to
-denote *topical importance* (important
-words first) instead of verb function.
-i still wanna explore this tho cuz its super
-interesting.
-
-im also thinking of two ways to put the verbs
-in the sentence.
-1. attach them to the subject
-  (`exist.basket bread` would mean
-  basket has the existence of the bread in it)
-
-2. attach them to the object
-  (`basket exist.bread` would mean
-  bread exists within the basket)
-
-these both mean the same thing (the
-basket has bread), but they got there differently.
-im not sure which way i like better. im leaning
-on v1.. but v2 aint far behind.
-
-without further ado, lemme explain how the
-relationals work, starting with the *two
-relational system* (i will be demoing both
-variants as well)
-
-## two relational system
-
-### variant 1: emphasis on subject
-```
-xeku
-+ ku exists
-
-xeku ko
-+ ku has ko
-
-xeku xeko
-+ ku = ko
-
-caku
-+ ku enters
-
-caku ko
-+ ku causes ko [passively]
-
-caku xeko
-+ ku causes ko [actively]
-
-caku xeko ka
-+ ku gives ka to ko
-
-caku xeko xeka
-+ ku causes ko to = ka
-```
-
-### variant 2: emphasis on object
-```
-xe existence
-ca causation
-
-xeko
-+ ko exists
-
-xeko ka
-+ ko exists within ka
-- ka has ko (or properties of ko)
-
-xeko xeka
-+ ko and ka have the same existence
-- ko and ka are the same
-- ko is ka | ka is ko
-
-xeko xeka ki
-- ki has ko and ka?
-
-caku
-+ ku causes itself
-- ku now exists
-- ku enters the chat
-
-caku ka
-+ ka causes ku
-- ka actively causes ku
-- ka makes ku happen anew
-- [cu.murder paya] would mean paya
-  actively commits a new murder
-
-caku xeko
-+ ko's existence causes ku
-- ko passively causes ku
-- ko makes ku happen generally
-- [ca.murder xe.paya] would mean paya
-  passively commits murder (but isnt rn)
-
-caku xeko ka
-+ ka caused ku to be in ko
-- ka causes ko to have ku
-- ka gives ku to ko
-```
 
 ## three relational system
 
@@ -335,4 +207,134 @@ xeko cavoku : ku makes ko exist intentionally
 
 poko ka caku   : ku gives ka to ko (no intent)
 poko ka cavoku : ku gives ka to ko (with intent)
+```
+# old
+there are multiple ways the lang could
+potentially handle relationals.
 
+one way is with [three relationals](#three-relational-system):
+*existence,
+posession, and causation.* this "3 relational"
+version of the language would have
+alot of versatility, especially as
+the relationships between existence and
+posession would be more robust.
+
+its possible to build the language with
+only [two relationals](#two-relational-system),
+however.
+this would be *existence
+and causation*, with existence covering cases
+of both instancing objects and declaring
+possesion in the way of "noun1 exists within
+noun2". this config has a little less
+wiggle room, but you can pretty much
+get your point across and theres less
+redundancy. i like this one the most
+bc i want the lang to be simple and elegant,
+and if i can get away with two relationals
+without causing more confusion than i solve,
+then its a keeper.
+
+its technically possible to have only one
+super versitile relational.. but it requires
+***word order***, something im choosing to
+avoid for the sake of using word order to
+denote *topical importance* (important
+words first) instead of verb function.
+i still wanna explore this tho cuz its super
+interesting.
+
+im also thinking of two ways to put the verbs
+in the sentence.
+1. attach them to the subject
+  (`exist.basket bread` would mean
+  basket has the existence of the bread in it)
+
+2. attach them to the object
+  (`basket exist.bread` would mean
+  bread exists within the basket)
+
+these both mean the same thing (the
+basket has bread), but they got there differently.
+im not sure which way i like better. im leaning
+on v1.. but v2 aint far behind.
+
+without further ado, lemme explain how the
+relationals work, starting with the *two
+relational system* (i will be demoing both
+variants as well)
+
+## two relational system
+
+### variant 1: emphasis on subject
+```
+xeku
++ ku exists
+
+xeku ko
++ ku has ko
+
+xeku xeko
++ ku = ko
+
+caku
++ ku enters
+
+caku ko
++ ku causes ko [passively]
+
+caku xeko
++ ku causes ko [actively]
+
+caku xeko ka
++ ku gives ka to ko
+
+caku xeko xeka
++ ku causes ko to = ka
+```
+
+### variant 2: emphasis on object
+```
+xe existence
+ca causation
+
+xeko
++ ko exists
+
+xeko ka
++ ko exists within ka
+- ka has ko (or properties of ko)
+
+xeko xeka
++ ko and ka have the same existence
+- ko and ka are the same
+- ko is ka | ka is ko
+
+xeko xeka ki
+- ki has ko and ka?
+
+caku
++ ku causes itself
+- ku now exists
+- ku enters the chat
+
+caku ka
++ ka causes ku
+- ka actively causes ku
+- ka makes ku happen anew
+- [cu.murder paya] would mean paya
+  actively commits a new murder
+
+caku xeko
++ ko's existence causes ku
+- ko passively causes ku
+- ko makes ku happen generally
+- [ca.murder xe.paya] would mean paya
+  passively commits murder (but isnt rn)
+
+caku xeko ka
++ ka caused ku to be in ko
+- ka causes ko to have ku
+- ka gives ku to ko
+```
