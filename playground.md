@@ -111,6 +111,21 @@ will be end up at the beach?
 sucafuco be topo
 we might end up at the beach
 
+cat cooks food for you
+food is cook for you because of cat
+fo koxe yuro kaca
+food cook.exist you.for cat.cause
+
+cat has yarn because of dog
+ka yapo doca
+cat's yarn is a ball because of dog
+ka yapo boxe doca
+cat is the bone's yarn because of dog
+ka yaxepo boxe doca
+
+```
+# other language
+```
 me 
 you 
 them
