@@ -65,7 +65,7 @@ the theme of a ditransitive verb
 ```
 it is grammatically incorrect to have both
 the relational of existence and possesion
-in one sentence. additionally, sentences with
+in one sentence. also, sentences with
 no nonrelational nouns are considered
 topical verbs. they serve to
 provide context to the conversation by addressing
