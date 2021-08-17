@@ -36,8 +36,9 @@ as you can see in the last two
 relationals are the blocks that turn
 words into verbs
 
-there are 2 primary relationals:
+there are 3 primary relationals:
 + existence
++ possesion
 + causation
 
 the relational of existence is appended to
@@ -93,7 +94,7 @@ as the exact blocks havent been worked out**
 ```
 xe existence (x is y)
 
-ka sexe
+kase sexe
 cat exists
 (cat is cat)
 - i will explain sentence topic "se"
@@ -105,6 +106,14 @@ cat is yarn
 yaxe ka
 cat is yarn
 ```
+```
+po posession (x has y)
+
+kase sepo
+cat has itself
+
+ka yapo
+cat has yarn
 ```
 ca causation (x caused y)
 
