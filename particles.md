@@ -1,18 +1,20 @@
-```volition
-future
-past
-possesion
-for
-towards
-away
-above
-below
-beside
-importance
-intensity
+```
+vrb existence
+vrb possesion
 
+agt causation
 
+rct behalfive
 
+adv past
+adv future
+
+sfx ktetic
+sfx this
+sfx that
+sfx yonder
+
+telo kaca yacasa do bopo
 
 ```
 
