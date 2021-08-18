@@ -1,6 +1,6 @@
 ```
-top context
-top sentence
+tpc context
+tpc sentence
 
 vrb existence
 vrb possesion
@@ -15,9 +15,7 @@ adv volition
 adv negation
 
 sfx ktetic
-sfx this
-sfx that
-sfx yonder
+sfx this/that
 
 
 
