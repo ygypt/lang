@@ -1,4 +1,7 @@
 ```
+top context
+top sentence
+
 vrb existence
 vrb possesion
 
@@ -8,13 +11,16 @@ rct behalfive
 
 adv past
 adv future
+adv volition
 
 sfx ktetic
 sfx this
 sfx that
 sfx yonder
 
-telo kaca yacasa do bopo
+
+
+pavo kaca yacasa do bopo
 
 ```
 
