@@ -12,6 +12,7 @@ rct behalfive
 adv past
 adv future
 adv volition
+adv negation
 
 sfx ktetic
 sfx this
