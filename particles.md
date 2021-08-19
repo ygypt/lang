@@ -14,6 +14,7 @@ adv negation
 
 sfx ktetic
 sfx this/that
+sfx intrumental
 
 pavo kaca yacasa do bopo
 
