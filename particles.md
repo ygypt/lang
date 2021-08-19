@@ -3,10 +3,8 @@ tpc context
 tpc sentence
 
 vrb existence
-vrb possesion
-
+pat possesion
 agt causation
-
 rct behalfive
 
 adv past
@@ -17,9 +15,18 @@ adv negation
 sfx ktetic
 sfx this/that
 
-
-
 pavo kaca yacasa do bopo
+
+pond.thi fish.pat
+pond-that fish-has
+that pond has fish
+(perfect; it has fish right now)
+
+pond.thi water.exi fish.pat
+pond-that water-is fish-has
+that pond is made of fish-bearing water
+that pond has fish
+(imperfect; the pond regularly bears fish)
 
 ```
 
