@@ -3,7 +3,7 @@ block|word
 |||
 |***noise***||
 |||
-s'|
+s'| 
 su|
 so|
 sa| negation
@@ -128,8 +128,8 @@ li|
 |||
 |***hums***||
 |||
-m'|
-mu| future
+m'| 
+mu| 
 mo|
 ma|
 me|
@@ -144,17 +144,24 @@ ni|
 |||
 |***special***||
 |||
-y'|
-yu|
-yo|
+y'| existence
+yu| possesion
+yo| behalfive
 ya| causation
-ye|
-yi|
+ye| topical
+yi| negation
 |||
-w'|
-wu|
-wo|
-wa|
-we|
-wi|
+w'| future
+wu| volition
+wo| past
+wa| ktetic
+we| this/that
+wi| instrumental
 |||
+s/q| existence
+c/ß| possesion
+h/t| behalfive
+f/p| causation
+x/k| instrumental
+d/l| 
+
