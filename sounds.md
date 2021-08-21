@@ -9,24 +9,24 @@ i : terror
 ```
 ## consonants
 | roman | noise |
-|:---|:---|
+|:---:|:---|
+|noises|noises|
 s | eng s
 c | eng sh
 h | eng th
 f | eng f (maybe)
 x | rus x
 z | shl (cover air with tongue and pop)
-|||
+|hits|hits|
 q | jap ts
 l | azt tl
 t | eng t
 p | eng p
 k | eng k
 g | kl (kl but like at the same time)
-|||
+|special|special|
 r | spa r (is a tap and l sometimes)
 v | uvular trill?
-|||
 m | eng m (maybe not)
 n | eng n (maybe not)
 y | eng y (without timbre)
