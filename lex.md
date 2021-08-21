@@ -6,22 +6,22 @@ block|word
 s'| 
 su|
 so|
-sa| negation
-se|
-si|
+sa| pond
+se| rock
+si| dirt
 |||
 c'|
-cu|
-co|
-ca|
-ce|
-ci| 
+cu| tree
+co| trunk
+ca| root
+ce| branch (fork)
+ci| leaf
 |||
 h'|
-hu| existence
-ho|
-ha|
-he|
+hu| canopy
+ho| woods (world)
+ha| home
+he| 
 hi|
 |||
 f'|
@@ -144,24 +144,24 @@ ni|
 |||
 |***special***||
 |||
-y'| existence
-yu| possesion
-yo| behalfive
-ya| causation
-ye| topical
-yi| negation
+y'|
+yu| 
+yo| future
+ya| past
+ye| volition
+yi| 
 |||
-w'| future
-wu| volition
-wo| past
+w'| 
+wu| 
+wo| proper
 wa| ktetic
 we| this/that
-wi| instrumental
+wi| 
 |||
-s/q| existence
-c/ß| possesion
-h/t| behalfive
-f/p| causation
-x/k| instrumental
-d/l| 
-
+|***naked***||
+|||
+s| existence
+c| possesion
+h| behalfive
+f| causation
+x| instrumental
