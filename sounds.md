@@ -13,23 +13,19 @@ i : terror
 s | eng s
 c | eng sh
 h | eng th
-f | eng f
+f | eng f (maybe)
 x | rus x
-d | spa r (without timbre)
-|||
-z | eng z
-j | french j
-b | eng th (with timbre)
-v | eng v
-g | uvular trill?
-r | spa r
+z | shl (cover air with tongue and pop)
 |||
 q | jap ts
-ß | eng ch (i dont like)
+l | azt tl
 t | eng t
 p | eng p
 k | eng k
-l | jap l (more like a tap)
+g | kl (kl but like at the same time)
+|||
+r | spa r (is a tap and l sometimes)
+v | uvular trill?
 |||
 m | eng m (maybe not)
 n | eng n (maybe not)
