@@ -4,12 +4,6 @@ i will be slowly bringing my work to this github, cuz its kinda all over the pla
 
 flora will have these ancient creatures who no longer inhabit the world but their writings still mark the trees they burrowed
 
-+ lang.md has all the technical info on the language
-  + it will be split into smaller more focused bits later
-+ sounds.md has every possible sound you can make
-  + gonna be trimmed down as i dont intend to use alot of consonants
-+ blocks.md is all possible blocks; a combination of one consonant followed by one vowel
-+ words.md is a buncha words they may use
-+ lex.md is where ill connect words and blocks to make the first basic dictionary
-+ grammar.md has all the info on relationals and how to make verbs
+the .md files have all the info you need to learn it
+
 ##### i am not a linguist
