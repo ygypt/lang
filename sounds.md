@@ -19,7 +19,7 @@ x | rus x
 z | shl (cover air with tongue and pop)
 |hits||
 q | jap ts
-l | azt tl
+l | nah tl
 t | eng t
 p | eng p
 k | eng k
@@ -32,15 +32,5 @@ n | eng n (maybe not)
 y | eng y (without timbre)
 w | eng w (without timbre)
 
-
 y and w are weird but they on the list cuz 
 i gotta be able to say paya and willow
-
-x g k
-d r l
-h b t
-s z q
-f v p
-c j ß
-y w
-m n
