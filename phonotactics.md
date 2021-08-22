@@ -1,16 +1,12 @@
 # phonotactics
 
-head/body/vowel/tail
+noun blocks are all CV
 
-typical blocks are just BV: ka lo ri, etc
+consecutive blocks with the same C can omit the C
 
-but blocks can end in a tail and be preceded
-by a head. the head consists of a few select
-"head" consonants, while the tail can consist
-of either "tail" consonants or any vowel
-
-head consonants
-
-l, g, z, p, k, t
-
+for instance and word spelt kakekikoku can be
+pronounced as kaeiou. any amount of the consonants
+can be pronounced or omitted to make the sequence
+easier to say or hear. for instance you could say
+kaekioku
 
