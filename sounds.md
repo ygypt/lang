@@ -13,24 +13,26 @@ i : terror
 |noises||
 s | eng s
 c | eng sh
-h | eng th
+v | eng th
 f | eng f (maybe)
 x | rus x
 z | shl (cover air with tongue and pop)
 |hits||
-q | jap ts
-l | nah tl
+h | eng ch
+y | jap ts
+d | nah tl
 t | eng t
 p | eng p
 k | eng k
-g | kl (kl but like at the same time)
 |special||
-r | spa r (is a tap and l sometimes)
-v | uvular trill?
+l | eng l
+q | uvular trill?
 m | eng m (maybe not)
 n | eng n (maybe not)
-y | eng y (without timbre)
+j | eng y (without timbre)
 w | eng w (without timbre)
+|r||
+r | spa r
 
 y and w are weird but they on the list cuz 
 i gotta be able to say paya and willow
