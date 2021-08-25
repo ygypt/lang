@@ -27,6 +27,26 @@ kacase do sepo yaposa
 
 kacase do se yasa sexe yasaxe
 
+
+tripartite?
+
+kaxe
+cat exists
+
+kaxe ya
+yarn is cat
+
+kaxe yaca
+cat exists cuz yarn
+
+kaxe yaca po
+bone is cat cuz yarn
+
+knowledge.this.plural.topic exist.good for.us.knowledge
+these knowledges are good by our knowledge
+
+person.all (equivalence)
+
 ```
 # other language
 ```
