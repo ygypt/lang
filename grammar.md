@@ -6,32 +6,6 @@ theres also some weird nuance to how relationals
 affect
 *each other* in a sentence
 
-the language has sexpartite alignment:
-
-#### intransitive
-+ subject
-```
-S.cat sleeps
-```
-#### transitive
-+ agent
-+ patient
-```
-A.cat chases P.dog
-```
-#### ditransitive+
-+ donor
-+ theme
-+ recipient+
-```
-D.cat gives T.bone to R.dog
-D.cat gives T.bone to R.dog for R.mouse
-D.cat gives T.bone for R.mouse to R.dog
-```
-
-evidently the order of R+ doesnt really matter
-as you can see in the last two
-
 # relationals
 relationals are the blocks that turn
 words into verbs
@@ -41,28 +15,20 @@ there are 3 primary relationals:
 + possesion
 + causation
 
-the relational of existence is appended to
-```
-the object of a topical
-the verb of an intransitive
-the verb of a transitive
-```
+the relational of existence and
+possesion are appended to a noun to turn
+it into an existential or possesive verb.
+for example, a sentence with `cat dog.existence`
+is an **intransitive** verb that effectively
+means "the cat dogs". the english translation
+would be the transitive "the cat is a dog",
+and it carries the same semantic meaning,
+but in practice it is considered intransitive.
+
 the relational of causation is appended to
-```
-the object of a topical
-the subject of an intransitive
-the agent of a transitive
-the donor of a ditransitive
-```
-a nonrelational noun is considered
-```
-the subject of an intransitive verb
-the agent of a transitive verb
-- against existence and possesion
-the patient of a transitive verb
-- against causation
-the theme of a ditransitive verb
-```
+a noun to turn it into the agent of a transitive
+verb
+
 it is grammatically incorrect to have both
 the relational of existence and possesion
 in one sentence. also, sentences with
