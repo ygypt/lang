@@ -81,6 +81,7 @@ cat has itself
 ka yapo
 cat has yarn
 ```
+```
 ca causation (x caused y)
 
 kaca ya
