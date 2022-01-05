@@ -19,7 +19,7 @@ kaca yaxe bosa
 cat yarns bone
 cat changes bone to yarn
 
-kacase sexe do sesa
+kacase sexe do bosa
 cat bones dogs bone
 cat causes dogs bone to exist
 
