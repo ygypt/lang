@@ -4,5 +4,5 @@ the small set of blocks
   + complex grammar doesnt mean a thousand case
 markers and genders and crap, it means there is
 a wide variety of tactics that each marker can employ.
-    + if its impossible to be grammatically correct,
+    + if its impossible to be grammatically incorrect,
 then the markers have been maximised
